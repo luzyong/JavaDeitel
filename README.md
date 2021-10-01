@@ -1,4 +1,4 @@
-# ***Cómo programar en Java. ***
+# ***Cómo programar en Java.
 ## Ejercicios propuestos del libro de Deitel y Deitel.
 1. Introducción a las computadoras y a los applets de Java.
 2. Creación de aplicaciones Java.
